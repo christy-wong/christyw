@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @christyw
-- 👀 I’m interested in data analytics, engineering, reading, watching tv, and making very elaborate salads.
+- 👀 I’m interested in data analytics, engineering, reading, tv, and elaborate salads.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on python projects!
 - 📫 How to reach me: https://twitter.com/christywong__
