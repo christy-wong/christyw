@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Christy Wong
-- 👀 I’m interested in data analytics, data engineering, learning, and avocado salads.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on python projects!
-- 📫 How to reach me: [twitter](https://twitter.com/christywong0/)
+- 👋 Hi, I’m Christy Wong!
+- 👀 I’m interested in data analytics, data engineering, and lifelong learning
+- 📫 How to reach me: [Follow me on Twitter](https://twitter.com/christywong0/)
 - 💎 Website: [www.christianawong.com](https://www.christianawong.com)
+- 🖥️ LinkedIn: [Connect on Linkedin](https://www.linkedin.com/in/christianawong/)
 
 <!---
 christyw/christyw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
